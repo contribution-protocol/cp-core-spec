@@ -1,0 +1,51 @@
+cp-core-spec
+
+
+This document defines the core principles of the Contribution Protocol.
+Implementations are free;
+however, any implementation that deviates from the principles set forth in this document
+shall be treated as a distinct lineage, separate from CP.
+
+
+The following is not a strategy,
+but an inviolable prerequisite of the Contribution Protocol
+that precedes all subsequent developments.
+
+
+----------------------- 
+Reversible / Irreversible Layers
+-----------------------
+The Contribution Protocol clearly separates the system into
+a “modifiable operational layer” and an “irreversible guarantee layer.”
+
+
+DB Layer (Reversible Operational Layer)
+
+The DB layer is the layer in which the system is actually operated.
+
+- It stores records of actions and transactions
+- Visualization and day-to-day circulation take place here
+- Human and organizational operations and judgments are involved
+- Damage, migration, and updates are assumed
+
+
+Smart Contract Layer (Irreversible Guarantee Layer)
+ 
+The Smart Contract layer does not operate the system;
+it fixes only the conditions of the system.
+
+- No human or organizational judgment is involved
+- Value expires over time
+- Issuance that does not satisfy the defined conditions cannot occur
+- Participants may exit the system at any time and are not bound
+- These conditions cannot be altered afterward
+
+
+Through this separation,
+the Contribution Protocol continues to exist as a structure
+without turning toward coercion or exploitation,
+even in the absence of operators, founders, or well-intentioned stewards.
+
+Furthermore, when participants are absent,
+a quiet halt of the structure of CP itself is permitted.
+
