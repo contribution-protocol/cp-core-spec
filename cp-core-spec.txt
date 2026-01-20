@@ -1,0 +1,83 @@
+cp-core-spec
+
+
+This document defines the core principles of the Contribution Protocol.
+Implementations are free to vary, but
+those that diverge from the principles set out here
+are treated as belonging to a different lineage from CP.
+
+
+
+Note:
+The following is not a strategy, but an immutable set of prerequisites
+that precede all subsequent developments of the Contribution Protocol.
+
+
+-----------------------
+Life / Death Boundary
+-----------------------
+Contribution Protocol clearly separates the system into
+a “living layer” and an “immutable post-mortem guarantee.”
+
+
+What the DB layer is responsible for (Life)
+･ Records
+･ Operations
+･ Visibility
+･ Day-to-day circulation
+
+The DB layer is a living operational layer,
+designed with the assumption that it can break, be migrated, and be updated.
+
+
+What the Smart Contract layer is responsible for (Post-mortem guarantees)
+･ Final veto authority
+･ Temporary suspension authority
+･ Exit guarantees
+･ Immutable conditions for issuance and expiration
+･ An immutable foundation
+
+The Smart Contract layer performs no operations and makes no judgments.
+It guarantees only non-seizability and non-reversibility,
+and exists solely as an immutable foundation that prevents the system from breaking.
+
+
+Through this separation,
+the Contribution Protocol can endure the absence of operators, founders,
+and even well-intentioned participants,
+without devolving into coercion or exploitation.
+
+
+
+-----------------------
+Graceful Death
+-----------------------
+The Contribution Protocol
+does not enforce its continued existence
+in any region or institutional implementation.
+
+
+Conditions
+･ When no one can find hope in the system anymore
+･ When no one chooses to participate in, receive from, or operate the system
+Under these conditions,
+the system must not be forcibly maintained or artificially prolonged.
+
+Behavior
+･ New issuance naturally comes to a halt
+･ Day-to-day operations gradually fade out
+Histories and records are preserved
+No individual is forced to bear responsibility
+
+
+The system is not judged as a failure.
+A quiet ending is permitted.
+
+A system that cannot die
+inevitably begins to exploit its participants.
+
+
+CP does not guarantee survival.
+It guarantees non-coercion, even at the end.
+
+
