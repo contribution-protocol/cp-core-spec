@@ -49,3 +49,13 @@ even in the absence of operators, founders, or well-intentioned stewards.
 Furthermore, when participants are absent,
 a quiet halt of the structure of CP itself is permitted.
 
+
+Note:
+In this specification, when the term “smart contract” is used,
+it refers to a representative example of an execution mechanism
+that is irreversible and automatically enforced,
+and does not permit human intervention.
+It is not limited to any specific technology.
+
+
+
