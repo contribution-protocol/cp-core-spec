@@ -1,0 +1,62 @@
+■ Minimal Structure of the Contribution Protocol (CP)
+
+1) What is the Minimal Structure of CP
+The minimal structure of CP is the fundamental unit of a system in which value is issued in response to contribution activities and circulates by expiring over time.
+Value is issued only based on reserves, records are not tampered with, and states are determined by time.
+
+
+2) System Behavior
+
+Contribution activities are recorded.
+Tokens are issued based on reserves.
+Tokens may be used.
+Unused tokens expire after a certain period of time.
+
+
+3) Minimal Structure of CP
+
+- Issuance Boundary
+The issued amount must always be less than or equal to the reserve balance.
+- State Transition
+All tokens must eventually transition to *expired*.
+- Time Sovereignty
+Unused tokens expire based on time, not by human judgment.
+- Immutability of Records
+All records are append-only and must not be updated or deleted.
+
+
+4) The Core of the System
+CP is a protocol.
+It is not an issuance mechanism, but the structure (rules) itself.
+
+
+----------------------------------------------
+■ Contribution Protocol（CP）の最小構造
+
+1) CPの最小構造とは
+貢献行動に応じて価値が発行され、時間とともに失効することで循環する制度の基本単位である。
+価値は引当に基づいてのみ発行され、記録は改ざんされず、状態は時間によって確定する。
+
+
+2) システムの挙動
+･ 貢献行動が記録される
+･ 引当に基づきトークンが発行される
+･ トークンは使用されることがある
+･ 未使用のトークンは一定期間の経過により失効する
+
+
+3) CPの最小構造
+･ 発行境界
+　　発行額は常に引当残高以下であること
+･ 状態遷移
+　　すべてのトークンは最終的に「expired」に遷移すること
+･ 時間主権
+　　未使用のトークンは人の判断ではなく時間によって失効すること
+･ 記録不変
+　　すべての記録は追記のみであり、更新・削除しないこと
+
+
+4) 制度の本体
+CPは制度である。
+発行システムではなく、構造（ルール）そのものである。
+
