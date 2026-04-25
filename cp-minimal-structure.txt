@@ -1,12 +1,11 @@
 ■ Minimal Structure of the Contribution Protocol (CP)
 
 1) What is the Minimal Structure of CP
-The minimal structure of CP is the fundamental unit of a system in which value is issued in response to contribution activities and circulates by expiring over time.
-Value is issued only based on reserves, records are not tampered with, and states are determined by time.
+The minimal structure of CP is the fundamental structure of a system in which value is issued in response to contribution activities and circulates through use or expiration over time.
+Value is issued only based on reserves, records are immutable, and states are determined by time.
 
 
 2) System Behavior
-
 Contribution activities are recorded.
 Tokens are issued based on reserves.
 Tokens may be used.
@@ -14,7 +13,6 @@ Unused tokens expire after a certain period of time.
 
 
 3) Minimal Structure of CP
-
 - Issuance Boundary
 The issued amount must always be less than or equal to the reserve balance.
 - State Transition
@@ -27,14 +25,14 @@ All records are append-only and must not be updated or deleted.
 
 4) The Core of the System
 CP is a protocol.
-It is not an issuance mechanism, but the structure (rules) itself.
+It is not an issuance system, but the structure (rules) itself.
 
 
 ----------------------------------------------
 ■ Contribution Protocol（CP）の最小構造
 
 1) CPの最小構造とは
-貢献行動に応じて価値が発行され、時間とともに失効することで循環する制度の基本単位である。
+貢献行動に応じて価値が発行され、使用または時間による失効を通じて循環する制度の基本単位である。
 価値は引当に基づいてのみ発行され、記録は改ざんされず、状態は時間によって確定する。
 
 
