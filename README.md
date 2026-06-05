@@ -39,24 +39,20 @@ It exists at a structural layer beyond religion, morality, or ideology.
 Compassion is not assumed as a premise;  
 it emerges as a result.
 
-The structure permits the absence of administrators, founders, or virtuous individuals.
+The absence of administrators, founders, or virtuous individuals is permitted.
 
-Even if destruction, deviation, or malicious behavior enters the system,
-the whole structure does not collapse.
+Individual implementations and operating entities may fail, cease operation, or deviate from their intended course.
 
-Without depending on external approval or funding,
-stability is restored through internal circulation.
+However, the principles of CP are not lost and may be inherited by future generations.
 
 
 ## Kan within CP
 
 Within CP, Kan is the completed state in which
 prayer (sorrow) and strategy are embedded into the institutional structure,
-
-so that even without being spoken,
-and regardless of who operates the system,
-
-it continues to behave as compassion.
+without presupposing the continued presence of the initiator,
+administrators, or virtuous individuals of that locality,
+while continuing to function as compassion.
 
 ---
 
@@ -86,13 +82,13 @@ CPは哀しみから生まれ
 宗教・道徳・思想を超えた構造階層にある  
 慈愛は前提ではなく結果として現れる  
 管理者・創始者・善人の不在を許容する  
-破壊・逸脱・悪意が混入しても、全体が崩壊しない  
-外部承認や資金に依存せず、内部循環で安定を回復する
+個別の実装や運営体は破綻・停止・逸脱し得る
+しかしCPの原理は失われず、後の時代に継承され得る
 
 
 ## CPにおける環
 
 CPにおける環とは、  
 祈り（哀しみ）と戦略が制度構造に沈み、  
-語られなくても、誰が運用しても、  
+その土地の起動者・管理者・善人の継続的存在を前提とせず 
 慈愛として振る舞い続ける完成状態である。
